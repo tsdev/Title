@@ -1,1 +1,1 @@
-Hello $$x_i$$.
+Hello
